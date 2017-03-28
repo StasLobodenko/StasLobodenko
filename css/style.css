@@ -1,0 +1,36 @@
+@import url(reset.css);
+
+
+body {
+	font: 12px/1.6 Arial, Verdana, Tahoma, sans-serif;
+	background: #f4f4f4;
+	max-width: 1023px;
+	width: 96%;
+	min-height: 1100px;
+	margin: 0 auto;
+}
+
+img {
+	list-style-type: none;
+	height: auto;
+	max-width: 100%;
+	display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
